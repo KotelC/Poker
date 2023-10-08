@@ -1,0 +1,14 @@
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\bin\Debug\net6.0\CzajaPoker.exe
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\bin\Debug\net6.0\CzajaPoker.deps.json
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\bin\Debug\net6.0\CzajaPoker.runtimeconfig.json
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\bin\Debug\net6.0\CzajaPoker.dll
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\bin\Debug\net6.0\CzajaPoker.pdb
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\obj\Debug\net6.0\CzajaPoker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\obj\Debug\net6.0\CzajaPoker.AssemblyInfoInputs.cache
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\obj\Debug\net6.0\CzajaPoker.AssemblyInfo.cs
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\obj\Debug\net6.0\CzajaPoker.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\obj\Debug\net6.0\CzajaPoker.dll
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\obj\Debug\net6.0\refint\CzajaPoker.dll
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\obj\Debug\net6.0\CzajaPoker.pdb
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\obj\Debug\net6.0\CzajaPoker.genruntimeconfig.cache
+C:\Users\Kuba\source\repos\CzajaPoker\CzajaPoker\obj\Debug\net6.0\ref\CzajaPoker.dll
