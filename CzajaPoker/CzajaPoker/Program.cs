@@ -327,7 +327,7 @@ namespace CzajaPoker
             }
             else
             {
-                Console.WriteLine("Remis czy coś.");
+                Console.WriteLine("Remis czy coś albo program dostał autyzmu.");
             }
         }
     }
