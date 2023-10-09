@@ -28,7 +28,7 @@ namespace CzajaPoker
 
         public void TaliaGracza(Talia deck)
         {
-            rekaGracz = deck.DrawHand();    
+            rekaGracz = deck.PobierzTalie();    
             Sortowanie();
         }
 
@@ -199,7 +199,7 @@ namespace CzajaPoker
             return talia[random.Next(0, talia.Count)];
         }
 
-        public List<Karta> DrawHand()
+        public List<Karta> PobierzTalie()
         {
             List<Karta> karty = new List<Karta>();
 
